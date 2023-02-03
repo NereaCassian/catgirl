@@ -64,7 +64,7 @@ h1{
 }
 
 .fl-table td {
-    border-right: 1px solid #f8f8f8;
+    border: 1px solid rgb(170, 122, 122);
     font-size: 20px;
 }
 
